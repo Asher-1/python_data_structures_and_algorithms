@@ -17,6 +17,7 @@
 [github 链接](https://github.com/PegasusWang/python_data_structures_and_algorithms)
 
 [readthedoc 电子书下载](http://python-data-structures-and-algorithms.readthedocs.io/zh/latest/)
+
 [本人github.io电子书地址](https://Asher-1.github.io/python_data_structures_and_algorithms/)
 
 [《开源一个 Python 算法和数据结构中文教程[视频]》](https://zhuanlan.zhihu.com/p/36038003)  视频讲解示例
